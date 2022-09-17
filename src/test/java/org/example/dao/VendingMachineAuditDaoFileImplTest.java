@@ -1,10 +1,6 @@
-package dao;
+package org.example.dao;
 
-import org.example.dao.VendingMachineAuditDao;
-import org.example.dao.VendingMachineAuditDaoFileImpl;
-import org.example.dao.VendingMachinePersistenceException;
 import org.junit.jupiter.api.*;
-
 
 class VendingMachineAuditDaoFileImplTest {
     String testAuditFile = "testAuditFile.txt";
