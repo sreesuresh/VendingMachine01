@@ -1,2 +1,9 @@
 2022-09-17T17:36:39.819123400 :  One Fanta removed
 2022-09-17T17:37:19.844528400 :  One Mars Bar removed
+2022-09-17T19:59:56.142072700 :  One Malteasers removed
+2022-09-17T20:43:32.632871200 :  One Malteasers removed
+2022-09-17T20:43:40.826220100 :  One Kitkat removed
+2022-09-20T10:14:24.760693700 :  One Kitkat removed
+2022-09-20T10:14:48.439483900 :  One Kitkat removed
+2022-09-20T10:16:12.695319500 :  One Malteasers removed
+2022-09-20T10:16:12.716267600 :  One Kitkat removed
